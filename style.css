@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+div{
+    padding-left: 30px;
+    margin: 1rem;
+}
+
+div{
+    border: 5px solid red;
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 20px;
+}
+
+#sr{
+    width: 100px;
+    height:100px;
+    background-color: #2ecc71;
+    position: relative;
+    border-radius: 50%;
+}
+
+
+#c
+{
+    background-color: skyblue;
+    height: 100px;
+    width: 200px;
+    border-radius: 80%;
+}
+
+#fs
+{
+    background-color: violet;
+    height: 100px;
+    width: 100px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+#tr
+{
+    background-color:greenyellow;
+    height: 100px;
+    width: 100px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
